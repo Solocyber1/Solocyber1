@@ -79,6 +79,10 @@
 |---|---|---|
 | **CSAW CTF** | 2025 | International Collegiate |
 | **Hacktheon Sejong International Collegiate Cybersecurity Competition** | 2026 | International Collegiate |
+| **GreyCTF Qualifiers** | 2025 | International |
+| **Kalmar CTF** | 2026 | International |
+| **HackTheBox Cyber Apocalypse CTF** | 2026 | International |
+| **Black Hat Qualifiers CTF** | 2026 | International |
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -134,6 +138,22 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Solocyber1&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> snake.gif`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Solocyber1/Solocyber1/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> metrics.iso`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Solocyber1/Solocyber1/main/github-metrics.svg" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
