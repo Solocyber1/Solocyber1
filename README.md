@@ -37,7 +37,7 @@
 ## `> trophies.sh`
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Solocyber1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://raw.githubusercontent.com/Solocyber1/Solocyber1/main/trophy.svg?v=1" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
