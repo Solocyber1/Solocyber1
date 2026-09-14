@@ -37,7 +37,7 @@
 ## `> trophies.sh`
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Solocyber1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Solocyber1&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -125,20 +125,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Solocyber1&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Solocyber1&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Solocyber1&theme=dark&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=ffffff&background=000000" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solocyber1&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff" width="60%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Solocyber1&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff" width="60%" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## `> activity.log`
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Solocyber1&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&border_color=00FF41" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
