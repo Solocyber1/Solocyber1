@@ -20,7 +20,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Solocyber1
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy.svg
@@ -29,4 +29,4 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add trophy.svg
           git commit -m "Update trophy" || echo "No changes to commit"
-          git push  
+          git push
