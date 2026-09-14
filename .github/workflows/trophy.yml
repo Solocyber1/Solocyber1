@@ -16,11 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.1.0
         with:
-          username: Solocyber1
-          file: trophy.svg
+          options: 'username=Solocyber1&theme=algolia&column=6&margin-w=8&margin-h=8'
+          path: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit trophy.svg
